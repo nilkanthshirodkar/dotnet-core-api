@@ -28,3 +28,7 @@ Commands Using While Building API Project with ASP.NET CORE 2.2
  dotnet ef migrations add InitialCreates
  
  dotnet ef database update
+
+ -- Creating Angular Project 
+
+ ng new DatingApp-frontend
