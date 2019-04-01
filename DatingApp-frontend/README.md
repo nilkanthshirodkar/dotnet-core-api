@@ -1,1 +1,1 @@
-Buildinf Angular App
+Building Angular App
